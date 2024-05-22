@@ -2,7 +2,7 @@
 
 I am a software engineer based in Columbus, Ohio. 
 
-Most recently, I developed Dataloaf. Dataloaf is an open-source, product analytics tool that enables individuals to better understand how their users and application interact. This is achieved through providing a self-hosted, dedicated platform with a fully managed data ingestion pipeline. 
+Most recently, I developed Dataloaf. Dataloaf is an open-source, product analytics tool that enables individuals to better understand how their users and application interact. This is achieved through providing a self-hosted, dedicated platform with a scalable data ingestion pipeline. 
 
 Check out Dataloaf in more detail [here](https://data-loaf.com/)!
 
