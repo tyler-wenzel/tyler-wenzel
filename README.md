@@ -6,7 +6,7 @@ Most recently, I developed Dataloaf. Dataloaf is an open-source, product analyt
 
 Check out Dataloaf in more detail [here](https://data-loaf.com/)!
 
-**Skills:**
+**Skills**
 
 | Category | Technologies |
 | --- | --- |
