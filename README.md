@@ -1,6 +1,4 @@
-**Hey! I'm Tyler**
-
-I am a software engineer based in Columbus, Ohio. 
+**Hey! I'm Tyler** 
 
 Most recently, I developed Dataloaf. Dataloaf is an open-source, product analytics tool that enables individuals to better understand how their users and application interact. This is achieved through providing a self-hosted, dedicated platform with a scalable data ingestion pipeline. 
 
