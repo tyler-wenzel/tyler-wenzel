@@ -9,7 +9,7 @@ Check out Dataloaf in more detail [here](https://data-loaf.com/)!
 | Category | Technologies |
 | --- | --- |
 | Programming Languages | JavaScript |
-| Web Development | Express, React, Node.js, JSX, jQuery, HTML5, CSS |
+| Web Development | Express, React, Node.js, JSX, jQuery, HTML5, CSS, Terraform |
 | Databases | MongoDB, SQL, PostgreSQL, Amazon Redshfit |
 | Cloud Services | Digital Ocean, Amazon Web Services (AWS) |
 | Containerization | Docker |
